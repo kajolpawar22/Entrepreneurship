@@ -591,6 +591,8 @@ Our initial go-to-market strategy will focus primarily on **active job seekers**
 - **24 million** active job seekers in the UK/US markets
 - **4.2 million** graduate students entering job markets annually
 
+![User Journey Flowchart](https://github.com/kajolpawar22/Entrepreneurship/blob/main/Picture%201.png) 
+
 By capturing just **0.5%** of the active job seeker market with our subscription model, PropelAI can achieve substantial revenue growth while delivering significant user value.
 
 ### 2.2 Competitive Landscape Analysis
@@ -606,6 +608,14 @@ While the market opportunity is substantial, understanding how PropelAI position
 
 PropelAI's unique combination of accessibility, personalization, and interview-specific focus addresses the limitations of current market offerings while providing compelling value at a fraction of traditional coaching costs.
 
+### 2.2 Customer & Industry Feedback (Primary Research: Surveys, Interviews)
+
+We conducted primary research through surveys and interviews with 73 potential users (students and working professionals) and industry experts to validate the market demand. Here’s what we learned:
+
+#### 1. Job Seekers & Students (Potential Users)
+**Method**: Online surveys were conducted via Google Forms.
+
+**Key Questions Asked and Findings:**
 
 
 
