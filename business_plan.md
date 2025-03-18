@@ -434,6 +434,9 @@ Users are presented with a streamlined dashboard offering two primary paths:
 * Share progress with mentors or coaches
 * Set and track personal improvement goals
 
+![User Journey Flowchart](https://github.com/kajolpawar22/Entrepreneurship/blob/main/user-journey-flowchart-2%202025-03-16%20at%2023.07.03.png?raw=true)
+*This flowchart illustrates the user journey for the PropelAI platform, showcasing the various stages and steps involved in using the platform for interview and public speaking preparation, from profile creation to post-session analysis and improvement tracking.*
+
 ## 1.9 Challenges and Risk Mitigation
 PropelAI operates in a dynamic and competitive landscape, facing technical, market, user experience, ethical, and financial challenges. Below, we outline these challenges and the strategies in place to mitigate them, ensuring long-term success and user satisfaction.
 
@@ -501,4 +504,108 @@ PropelAI operates in a dynamic and competitive landscape, facing technical, mark
 * **Revenue Dependency on Subscriptions**  
   - **Challenge**: Over-reliance on subscriptions could limit growth potential.  
   - **Mitigation**: Diversifying revenue streams through enterprise licenses, one-time purchases (e.g., interview packs), and upselling opportunities like advanced analytics and coaching sessions.
+
+## 2. Market Section: Proving the Demand for PropelAI
+This section validates the substantial market opportunity for PropelAI by examining critical market questions, presenting comprehensive research findings, and demonstrating our competitive differentiation.
+
+### 2.1 Key Market Validation Questions
+Our market research strategy focused on answering four fundamental questions to validate PropelAI's market potential:
+
+#### 2.1.1 Do people struggle with public speaking & job interviews?
+**Substantial Evidence Confirms This Challenge:**
+
+- **The National Institute of Mental Health** reports that **77% of people** experience anxiety related to public speaking.
+- **Yale University Research** found that **40% of interview failures** stem from poor communication skills rather than technical qualifications.
+- **The GITNUX 2024 Communication Report** reveals that **75% of professionals** experience anxiety related to public speaking scenarios, with **19.2% fearing it more than death**.
+- **Harvard Business School Survey** discovered that **67% of job applicants** believe their interview performance didn’t accurately reflect their capabilities.
+- **LinkedIn Talent Solutions** reports that **53% of hiring managers** have eliminated qualified candidates due to poor communication during interviews.
+
+The evidence is clear: **communication anxiety** represents a widespread challenge with significant professional consequences.
+#### 2.1.2 Would users pay for an AI-based speaking coach?
+**Market Pricing Analysis Confirms Willingness to Pay:**
+
+
+
+| Service Provider              | Offering                    | Price Point      |
+|-------------------------------|-----------------------------|------------------|
+| Milly Ellis (Public Speaking Expert) | Hourly Coaching              | £200/hour        |
+| Milly Ellis                   | Half-Day Workshop            | £800             |
+| Milly Ellis                   | Full-Day Workshop            | £1,500           |
+| London Speech Workshop        | 5 Sessions (Senior Coach)    | £1,050           |
+| London Speech Workshop        | 15 Sessions (Head Coach)     | £3,315           |
+| Your Interview Coach          | Mock Interview Package       | £249             |
+| TEAL Academy (Jackie Dack)    | One-on-One Interview Coaching| £650/hour        |
+
+### Price Analysis and Strategy
+
+This price analysis reveals:
+
+- **Significant Cost Barrier**: Traditional coaching represents a substantial investment, often beyond the means of many job seekers. Personal coaching services can cost anywhere from hundreds to thousands of dollars, making them inaccessible to a large portion of the target market.
+
+- **Value Perception**: Professional development services command premium pricing when delivering measurable, personalized outcomes. High-value services that offer tangible results justify their cost, and potential customers are often willing to invest in solutions that can guarantee career advancement.
+
+- **Market Gap**: There's a clear market gap for an affordable, AI-based alternative that delivers personalized feedback. Traditional coaching can be both time-consuming and expensive, while PropelAI’s scalable model provides individualized coaching at a fraction of the price.
+
+- **Subscription Opportunity**: PropelAI’s recurring revenue model, priced at **£10-20/month**, offers a compelling value compared to traditional options. This affordable pricing allows individuals at all career stages to access high-quality coaching without the burden of steep fees. Additionally, this pricing model enables sustainable long-term growth and customer retention.
+
+#### 2.1.3 Who are our initial target customers?
+**Primary Market Segments:**
+
+- **Active Job Seekers (Primary Focus)**
+  - Recently unemployed professionals seeking new positions
+  - Career changers preparing for interviews in new industries
+  - Graduates entering the job market for the first time
+
+- **Career Advancement Professionals**
+  - Mid-career professionals preparing for internal promotion interviews
+  - Employees in client-facing roles needing to enhance presentation skills
+  - Management-track employees developing leadership communication
+
+- **Higher Education Students**
+  - University students preparing for internship/placement interviews
+  - Graduate students practicing academic presentations
+  - International students seeking communication confidence in non-native languages
+
+Our initial go-to-market strategy will focus primarily on **active job seekers**, who have the most immediate need and motivation to improve their interview communication skills.
+
+#### 2.1.4 What is the size of our addressable market?
+**E-Learning Market Analysis:**
+
+- **Current Market Size (2024)**: $314.03 billion
+- **2025 Projected Size**: $354.71 billion (13.0% CAGR)
+- **2029 Projected Size**: $625.3 billion (15.2% CAGR)
+
+**Market Growth Drivers:**
+- Rapid expansion of online degree programs
+- Increasing demand for soft skills training
+- Growing focus on specialized and niche subject learning
+- Emphasis on inclusive and accessible learning solutions
+- Evolution of learning management systems (LMS)
+
+**Interview Preparation Segment:**
+- Estimated at **$4.2 billion** globally with **11.3% CAGR**
+- Digital solutions capturing increasing market share (47% of segment by 2025)
+
+**Addressable User Base:**
+- **58 million** monthly job applications on LinkedIn alone
+- **24 million** active job seekers in the UK/US markets
+- **4.2 million** graduate students entering job markets annually
+
+By capturing just **0.5%** of the active job seeker market with our subscription model, PropelAI can achieve substantial revenue growth while delivering significant user value.
+
+### 2.2 Competitive Landscape Analysis
+
+While the market opportunity is substantial, understanding how PropelAI positions against existing solutions is critical:
+
+| **Competitor Type**       | **Examples**                          | **Limitations**                                                           | **PropelAI Advantage**                                                   |
+|---------------------------|---------------------------------------|---------------------------------------------------------------------------|-------------------------------------------------------------------------|
+| **Traditional Coaching**   | London Speech Workshop, TEAL Academy  | High cost, limited accessibility, scheduling constraints                   | Affordable, 24/7 availability, unlimited practice                       |
+| **Generic Interview Prep** | InterviewBuddy, Big Interview         | Generic feedback, limited personalization, outdated UX                    | AI-powered personalization, industry-specific guidance, modern interface|
+| **Speech Analytics**       | Yoodli, Orai                          | Focus on general speaking, not interview-specific, limited feedback depth | Interview-focused, comprehensive feedback, contextual insights          |
+| **Peer Practice**          | Pramp, Interviewing.io                | Dependent on partner availability, inconsistent quality                    | Always available, consistent feedback, private practice environment     |
+
+PropelAI's unique combination of accessibility, personalization, and interview-specific focus addresses the limitations of current market offerings while providing compelling value at a fraction of traditional coaching costs.
+
+
+
 
