@@ -271,7 +271,7 @@ To illustrate PropelAI’s technical synergy, consider a user preparing for a Pr
 #### 4. Scalability & Security
 PropelAI leverages AWS Elastic Beanstalk for auto-scaling, ensuring seamless performance during peak usage (e.g., MBA recruitment seasons). All data is encrypted in transit and at rest, with GDPR/CCPA compliance for global user bases.
 
-![PropelAI Logo](https://github.com/kajolpawar22/Entrepreneurship/blob/main/propelai_working.png)
+![PropelAI Logo](https://github.com/kajolpawar22/Entrepreneurship/blob/main/propelai-flowchart-2%202025-03-20%20at%2015.13.07.png)
 *The PropelAI workflow: Record your speech, analyze it with AI-powered feedback, and improve with personalized recommendations. This intuitive process ensures users can quickly and effectively enhance their communication skills.*
 
 ## 1.7 PropelAI Platform: Comprehensive User Journey Map
