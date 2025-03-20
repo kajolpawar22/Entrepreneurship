@@ -1018,6 +1018,11 @@ The legal advisor ensures PropelAI complies with legal and regulatory requiremen
 
 
 With strong leadership, technical expertise, and a well-defined strategy, PropelAI is positioned for success. Each team member plays a critical role in driving innovation, ensuring operational efficiency, and accelerating growth, laying the foundation for a thriving startup.
+
+![PropelAI Org Chart](https://github.com/kajolpawar22/Entrepreneurship/blob/main/org-chart-fixed%202025-03-20%20at%2016.09.59.png)
+
+*The diagram above illustrates the hierarchical structure of PropelAI, outlining the key roles and responsibilities of each team member. At the top, the CEO provides leadership and direction, followed by specialized teams handling development, finance, marketing, security, and legal advisory. The Development Team is divided into AI/ML engineers, frontend and backend developers, security engineers, and the DevOps team to ensure smooth operations and growth.*
+
 ---
 
 ## 3.3 Resources Needed & How We Will Get Them  
