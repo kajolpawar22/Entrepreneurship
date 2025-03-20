@@ -939,6 +939,87 @@ Financial governance will include **quarterly board reviews**, **annual external
 
 
 ## 3.2 Team and Roles  
+
+### PropelAI Team Members:  
+- **Aayush Singh**  
+- **Vishwaksha Odduri**  
+- **Abisola Pitan**  
+- **Kajol Roopchand Pawar**  
+- **Chandru Ilango**  
+- **Rashmi Ramnath Anmane**  
+
+Each of the following roles is crucial in ensuring smooth business operations and achieving PropelAI’s growth potential.  
+
+### Core Roles  
+
+#### 1. CEO - **Aayush Singh**  
+As the creator of PropelAI, Aayush brings a clear vision of the overall business and its strategic direction.  
+
+**Responsibilities:**  
+- Overseeing decision-making and business strategy.  
+- Directing the team and ensuring smooth collaboration.  
+- Ensuring deadlines and key milestones are met.  
+---
+#### 2. Finance & Operations Leads - **Abisola Pitan, Rashmi Ramnath Anmane**  
+The finance team ensures the financial health of the business and effective budget allocation.  
+
+**Responsibilities:**  
+- Budgeting and strategic financial planning.  
+- Cash flow management, accounting, and reporting.  
+- Leading fundraising efforts and identifying investors.  
+---
+#### 3. Development Team  
+
+Our developers are responsible for building and refining the core product to ensure reliability, scalability, and alignment with the business vision.  
+
+#### **Developers** - *Aayush Singh, Kajol Roopchand Pawar, Chandru Ilango, Rashmi Ramnath Anmane, Abisola Pitan*  
+
+**General Responsibilities:**  
+- Developing PropelAI’s platform using necessary technologies.  
+- Troubleshooting and optimizing the application’s performance.  
+- Implementing features based on market feedback and product design.  
+
+**Specialized Roles:**  
+
+#### a) **AI/ML Engineers** - *Aayush Singh, Abisola Pitan*  
+- Designing AI/ML models for PropelAI’s core features.  
+- Fine-tuning algorithms to optimize performance.  
+
+#### b) **Frontend Developers** - *Vishwaksha Odduri, Rashmi Ramnath Anmane*  
+- Creating a user-friendly and intuitive UI for enhanced user experience.  
+- Implementing visually appealing components for user engagement.  
+
+#### c) **Backend Developers** - *Aayush Singh, Rashmi Ramnath Anmane*  
+- Building and optimizing the server infrastructure for reliability.  
+- Ensuring efficient system performance and data management.  
+
+#### d) **Security Engineers** - *Kajol Roopchand Pawar, Chandru Ilango*  
+- Implementing robust cybersecurity measures to prevent threats and ensure data privacy.  
+
+#### e) **DevOps Team** - *Abisola Pitan, Kajol Roopchand Pawar*  
+- Managing cloud infrastructure, deployment pipelines, and automation processes.  
+- Implementing efficient tools for smooth deployment and innovation.  
+---
+#### 4. Marketing & Growth Officers - **Abisola Pitan, Kajol Roopchand Pawar**  
+The marketing team focuses on increasing PropelAI’s visibility and attracting new users.  
+
+**Responsibilities:**  
+- Planning and executing marketing strategies for user acquisition, retention, and engagement.  
+- Building the brand through social media, partnerships, and digital marketing.  
+- Analyzing marketing data to optimize campaigns.  
+---
+#### 5. Legal Advisor - **Vishwaksha Odduri**  
+The legal advisor ensures PropelAI complies with legal and regulatory requirements.  
+
+**Responsibilities:**  
+- Providing insights on legal risks and mitigation strategies.  
+- Drafting and reviewing contracts with stakeholders.  
+- Ensuring compliance with data protection laws like GDPR.  
+
+
+With strong leadership, technical expertise, and a well-defined strategy, PropelAI is positioned for success. Each team member plays a critical role in driving innovation, ensuring operational efficiency, and accelerating growth, laying the foundation for a thriving startup.
+---
+
 ## 3.3 Resources Needed & How We Will Get Them  
 
 To build and scale PropelAI effectively, we've developed a pragmatic, two-phase approach that prioritizes rapid market entry, user validation, and sustainable growth. Our strategy focuses on leveraging modern cloud infrastructure, AI technologies, and strategic partnerships while maintaining realistic resource constraints.
