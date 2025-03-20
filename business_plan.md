@@ -95,6 +95,8 @@ Unlike traditional coaching methods, PropelAI employs advanced AI models, real-t
 *	Speech Confidence Scoring → Users receive a confidence score based on vocal energy, engagement, and tone modulation, helping them track their progress.
 *	Dynamic Follow-Up Questioning → Just like real interviewers, PropelAI analyses the user's response and asks intelligent follow-up questions, simulating a real-life discussion.
 *	Public Speaking & Presentation Training → Users can rehearse speeches in different settings (business pitch, TED Talk, classroom lecture) with AI-driven feedback on clarity and storytelling.
+
+![PropelAI Logo](https://github.com/kajolpawar22/Entrepreneurship/blob/main/propelai_hero_page.png)
   
 #### How PropelAI Solves This Problem:
 PropelAI uses advanced AI models, real-time speech recognition, and machine learning algorithms to create a truly personalized learning experience unlike traditional coaching methods. Here’s how:
