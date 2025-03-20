@@ -182,6 +182,7 @@ PropelAI redefines interview preparation with resume-driven customization, real-
 * Custom Company Questions: Upload organization-specific questions to prepare internal candidates
 * Mentorship Connection: Link improving candidates with high-performing employees for additional coaching
 
+
 ### 2 PropelAI: Advanced Public Speaking Training Platform:
 PropelAI revolutionizes public speaking training with AI-powered analysis, personalized feedback, and immersive practice environments to help users master confident and engaging communication.
 #### Core Features
@@ -221,6 +222,9 @@ PropelAI revolutionizes public speaking training with AI-powered analysis, perso
 * Audience Engagement Metrics: Measure and improve techniques that drive audience attention and retention
 * Cultural Adaptation Tools: Guidance for adapting presentations across different cultural contexts
 * Accessibility Coach: Suggestions for making your presentation more inclusive for diverse audiences
+
+![PropelAI Logo](https://github.com/kajolpawar22/Entrepreneurship/blob/main/propel%20feature%20page.png) 
+*The PropelAI feature page highlights key tools such as resume-driven interview preparation, real-time AI feedback, mock interview simulations, and public speaking training. Each feature is designed to provide personalized guidance and actionable insights, ensuring users can analyze, practice, and perfect their communication skills.*
 
 
 ## 1.6 Technical Overview: How PropelAI Works
