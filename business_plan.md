@@ -1,5 +1,7 @@
 # PropelAI: An AI-Powered Communication Platform
 
+![PropelAI Logo](https://github.com/kajolpawar22/Entrepreneurship/blob/main/propelai%20logo.png)
+
 # Table of Contents
 ## Introduction
 #### Executive Summary 
