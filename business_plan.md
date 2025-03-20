@@ -144,6 +144,10 @@ Additionally, PropelAI provides a personalized improvement plan with specific pr
 PropelAI is not just a product—it’s a solution to a widespread and costly issue. Poor communication skills hinder career advancement, cost individuals job opportunities, and prevent companies from securing top talent due to mismatched interview performance. By bridging this gap with an AI-driven platform, PropelAI has the potential to capture a significant share of the USD 163.5 billion (as of 2023) professional training market.
 For investors, PropelAI presents a unique opportunity to support a product that combines cutting-edge technology with a clear market demand. The platform delivers measurable results, such as higher interview success rates, reduced anxiety, and improved communication skills, making it an essential tool for job seekers, professionals, and educators.
 Its subscription-based model ensures recurring revenue, while its scalable architecture positions PropelAI for rapid expansion into new markets and industries, offering substantial growth potential.
+![PropelAI Logo](https://github.com/kajolpawar22/Entrepreneurship/blob/main/market.png)
+*Source: [SKYQUEST](https://www.skyquestt.com/report/corporate-training-market?utm.com)*
+
+
 
 ## 1.5 Features & Functionality: What Does PropelAI Do?
 PropelAI is an AI-powered platform that transforms how individuals prepare for high-stakes communication, from job interviews to public speaking. By combining cutting-edge technology with user-centric design, PropelAI offers a suite of features that deliver personalized, actionable, and measurable results. Here’s how it works:
@@ -271,7 +275,6 @@ To illustrate PropelAI’s technical synergy, consider a user preparing for a Pr
 #### 4. Scalability & Security
 PropelAI leverages AWS Elastic Beanstalk for auto-scaling, ensuring seamless performance during peak usage (e.g., MBA recruitment seasons). All data is encrypted in transit and at rest, with GDPR/CCPA compliance for global user bases.
 
-![PropelAI Logo](https://github.com/kajolpawar22/Entrepreneurship/blob/main/propelai-flowchart-2%202025-03-20%20at%2015.13.07.png)
 *The PropelAI workflow: Record your speech, analyze it with AI-powered feedback, and improve with personalized recommendations. This intuitive process ensures users can quickly and effectively enhance their communication skills.*
 
 ## 1.7 PropelAI Platform: Comprehensive User Journey Map
@@ -440,7 +443,7 @@ Users are presented with a streamlined dashboard offering two primary paths:
 * Share progress with mentors or coaches
 * Set and track personal improvement goals
 
-![User Journey Flowchart](https://github.com/kajolpawar22/Entrepreneurship/blob/main/user-journey-flowchart-2%202025-03-16%20at%2023.07.03.png?raw=true)
+![PropelAI Logo](https://github.com/kajolpawar22/Entrepreneurship/blob/main/propelai-flowchart-2%202025-03-20%20at%2015.13.07.png)
 *This flowchart illustrates the user journey for the PropelAI platform, showcasing the various stages and steps involved in using the platform for interview and public speaking preparation, from profile creation to post-session analysis and improvement tracking.*
 
 ## 1.9 Challenges and Risk Mitigation
@@ -609,6 +612,8 @@ The data conclusively shows that our target market **highly values communication
 - **4.2 million** graduate students entering job markets annually
 
 ![User Journey Flowchart](https://github.com/kajolpawar22/Entrepreneurship/blob/main/Picture%201.png) 
+
+*Source:[The Business Research Company](https://www.thebusinessresearchcompany.com/report/adaptive-learning-global-market-report)*
 
 By capturing just **0.5%** of the active job seeker market with our subscription model, PropelAI can achieve substantial revenue growth while delivering significant user value.
 
