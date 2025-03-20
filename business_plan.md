@@ -1477,6 +1477,10 @@ PropelAI's go-to-market approach will follow a phased rollout:
 
 This methodical approach will ensure product-market fit before significant marketing investment while building initial user testimonials and case studies to fuel broader adoption. Each phase will include detailed data collection to optimize the next stage of growth.
 
+![PropelAI Logo](https://github.com/kajolpawar22/Entrepreneurship/blob/main/propel_promotion.png)
+*The PropelAI sign-up page encourages users to join and start their journey toward becoming confident communicators. It highlights key features like AI-powered speech analysis and practice tools, along with resources like blogs and guides.*
+
+
 
 # 3.6 Operational Plan
 PropelAI’s operational plan is designed to align seamlessly with our financing strategy, ensuring that resources, timelines, and growth targets work in harmony. This plan focuses on sustainable growth while maximising capital efficiency.
