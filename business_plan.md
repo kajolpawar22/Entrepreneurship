@@ -882,11 +882,55 @@ PropelAI stands apart from competitors through its comprehensive, personalized a
 PropelAI fills a **critical market gap** by combining **personalized AI-driven feedback, resume-based interview simulations, company-specific preparation, and real-time analysis** at an **affordable subscription price of £10-20/month**.
 
 
-## 3. Strategy: Bringing PropelAI to Market
+# 3. Strategy: Bringing PropelAI to Market
 
-### 3.1 Legal Status and Business Structure  
-### 3.2 Team and Roles  
-### 3.3 Resources Needed & How We Will Get Them  
+## 3.1 Legal Status and Structure
+
+### Legal Status
+
+PropelAI will operate as a **Private Limited Company (Ltd.)** registered with Companies House in the UK. This structure requires a minimum capital of **£1** and at least one director who will ensure statutory compliance. Registration typically takes **24-48 hours** and costs approximately **£12 online**.
+
+This legal framework provides several strategic advantages:
+
+- **Limited liability protection** that shields founders' personal assets from business debts  
+- **Enhanced credibility** with investors, corporate clients, and educational institutions  
+- **Ability to issue shares**, facilitating investment from angel investors and venture capital firms  
+- **Access to tax benefits**, including the UK's competitive **19% corporation tax rate** and **R&D tax credits** (up to **33p for every £1** spent on qualifying innovation)  
+
+PropelAI will adhere to all relevant UK regulations, including:
+
+- **GDPR and Data Protection Act 2018** for secure handling of user data  
+- **Intellectual property laws** to protect our AI algorithms and learning methodologies  
+- **Employment legislation** when expanding our team  
+- **Financial Conduct Authority (FCA) requirements** if offering specific financial education services  
+
+## Business Structure
+
+The company will implement a robust governance framework:
+
+- **Board of Directors** comprising the founding team: **CEO, CTO, and CFO**  
+- **Advisory board** featuring subject matter experts from AI technology, HR, and education sectors  
+- **Clear reporting lines** between technical development, product management, and customer success teams  
+
+A comprehensive shareholder agreement will establish:
+
+- **Initial equity distribution** (founders: **70%**, employee option pool: **15%**, early investors: **15%**)  
+- **Voting rights and decision-making thresholds** for strategic changes  
+- **Vesting schedules** (**4-year vesting with 1-year cliff** for founders and early employees)  
+- **Anti-dilution provisions** and **exit procedures**  
+
+As PropelAI scales, we will pursue:
+
+- **Patent protection** for our proprietary AI communication assessment algorithms  
+- **Potential international subsidiary registration** in key target markets (**US, EU**)  
+- **Strategic partnerships** requiring formal legal agreements with educational institutions  
+- **Certified B Corporation status** to formalize our commitment to social impact  
+
+Financial governance will include **quarterly board reviews**, **annual external audits**, and **transparent reporting** to Companies House and HMRC, establishing PropelAI as a legally sound, well-structured enterprise positioned for sustainable growth and investor confidence.
+
+
+## 3.2 Team and Roles  
+## 3.3 Resources Needed & How We Will Get Them  
 
 To build and scale PropelAI effectively, we've developed a pragmatic, two-phase approach that prioritizes rapid market entry, user validation, and sustainable growth. Our strategy focuses on leveraging modern cloud infrastructure, AI technologies, and strategic partnerships while maintaining realistic resource constraints.
 
@@ -1252,57 +1296,178 @@ PropelAI's financing plan is designed to maximize growth while maintaining finan
 # 3.5 Sales & Marketing Strategy
 
 ## Target Early Customers
+
 Our initial customer acquisition strategy will focus on three primary segments:
-- **Active Job Seekers** - Individuals actively searching for new employment opportunities who face immediate interview challenges
-- **Final-Year University Students** - Students preparing to enter the job market who need interview practice and confidence-building
-- **Early-Career Professionals** - Those with 1-3 years of experience looking to advance their careers through improved communication skills
+
+- **Active Job Seekers** - Individuals actively searching for new employment opportunities who face immediate interview challenges and need rapid improvement
+- **Final-Year University Students** - Students preparing to enter the job market who need interview practice and confidence-building for their first professional roles
+- **Early-Career Professionals** - Those with 1-3 years of experience looking to advance their careers through improved communication skills and interview performance
 
 ## Customer Acquisition Channels
+
 PropelAI will implement a multi-channel marketing approach to efficiently reach our target audience:
-- **Digital Marketing Campaign**
-  - LinkedIn Targeted Advertising - Precision targeting of job seekers and career changers with job-focused messaging
-  - Google Search Ads - Capturing high-intent users searching for "interview practice," "interview preparation," and related terms
-  - Reddit Community Engagement - Active participation in r/jobs, r/interviews, and career-focused subreddits
-- **Content Marketing & SEO**
-  - Interview Preparation Blog - Comprehensive guides on interview techniques to drive organic traffic
-  - YouTube Tutorial Series - "Master Your Interview" video content demonstrating PropelAI's capabilities
-  - Weekly Interview Tips Newsletter - Building an email subscriber base through valuable free content
-- **Strategic Partnerships**
-  - University Career Centres - Student discount programs with top universities' career services departments
-  - Job Platforms Integration - Partnerships with job boards to offer PropelAI as a value-added service
-  - Career Coaches Network – An Affiliate program for career coaches to recommend PropelAI to their clients
-- **Community Building**
-  - Free Interview Community - Creating a supportive environment for job seekers to share experiences
-  - Weekly Practice Sessions - Group coaching sessions to showcase the platform's capabilities
-  - Success Stories Campaign - Highlighting users who secured jobs after using PropelAI
-- **Referral Program**
-  - "Friend Pass" - Users receive one month free when referring friends who subscribe
-  - Alumni Network - Special incentives for users who secured jobs to refer PropelAI to their networks
-  - "Practice Partner" - Discount for users who practice together using the platform
+
+### Digital Marketing Campaign
+
+- **LinkedIn Targeted Advertising** - Precision targeting of job seekers and career changers with job-focused messaging and specific career transition use cases
+- **Google Search Ads** - Capturing high-intent users searching for "interview practice," "interview preparation," and related terms with A/B tested ad copy
+- **Reddit Community Engagement** - Active participation in r/jobs, r/interviews, and career-focused subreddits with authentic contribution, not just promotion
+- **TikTok & Instagram** - Short-form video content demonstrating "interview transformation" stories and quick tips
+
+### Content Marketing & SEO
+
+- **Interview Preparation Blog** - Comprehensive guides on interview techniques to drive organic traffic with industry-specific advice
+- **YouTube Tutorial Series** - "Master Your Interview" video content demonstrating PropelAI's capabilities and before/after transformations
+- **Weekly Interview Tips Newsletter** - Building an email subscriber base through valuable free content with clear conversion paths
+- **Interview Question Database** - SEO-optimized resource of common questions by industry and role type
+
+### Strategic Partnerships
+
+- **University Career Centres** - Student discount programs with top universities' career services departments with embedded workshop offerings
+- **Job Platforms Integration** - Partnerships with job boards to offer PropelAI as a value-added service to applicants
+- **Career Coaches Network** – An Affiliate program for career coaches to recommend PropelAI to their clients with revenue sharing
+- **Professional Associations** - Discounted group rates for members of relevant professional organizations
+
+### Community Building
+
+- **Free Interview Community** - Creating a supportive environment for job seekers to share experiences and feedback
+- **Weekly Practice Sessions** - Group coaching sessions to showcase the platform's capabilities with expert hosts
+- **Success Stories Campaign** - Highlighting users who secured jobs after using PropelAI with concrete metrics and testimonials
+- **Industry-Specific Discussion Groups** - Focused communities for tech, healthcare, finance, etc. to share field-specific insights
+
+### Referral Program
+
+- **"Friend Pass"** - Users receive one month free when referring friends who subscribe
+- **Alumni Network** - Special incentives for users who secured jobs to refer PropelAI to their networks
+- **"Practice Partner"** - Discount for users who practice together using the platform
+- **"Team Builder"** - Progressive discounts based on number of referrals (5% off for 1 referral, 10% for 2, etc.)
+
+## Conversion Funnel Optimization
+
+We will implement a structured approach to moving users through our acquisition funnel:
+
+### Awareness to Interest
+
+- Retargeting campaigns for website visitors who don't immediately sign up
+- Limited-time access to premium features to showcase full platform value
+- Interactive assessment tool to help users evaluate their interview readiness
+
+### Free to Paid Conversion
+
+- Strategically limited free tier with clear showcasing of premium features
+- 7-day free trial of Pro tier with job-specific interview preparation
+- "Interview Confidence Guarantee" - 30-day money back guarantee if users don't feel more prepared
+- Progressive engagement tactics highlighting user improvement metrics
+
+### Subscription Retention
+
+- Progress milestone celebrations and achievement badges
+- Personalized improvement roadmaps based on user performance
+- Regular feature updates communicated through in-app notifications
+- Check-in emails for users showing declining engagement patterns
+
+## Retention Marketing Strategy
+
+To maximize customer lifetime value, we will implement targeted retention initiatives:
+
+### Engagement Program
+
+- Personalized practice schedules based on upcoming interviews
+- Weekly progress reports highlighting improvements and suggested focus areas
+- Adaptive content that evolves with the user's skills and career progression
+- Regular new feature announcements and enhancement updates
+
+### Churn Prevention
+
+- Early warning system identifying users with declining usage patterns
+- Re-engagement campaigns for dormant users with personalized incentives
+- Exit surveys with targeted win-back offers based on cancellation reasons
+- Seasonal promotions during typical job search periods (January, September)
+
+### Value Reinforcement
+
+- Success tracking dashboard showing interview performance improvements
+- Regular case studies of users who secured desired positions
+- Quantified reporting on practice hours and skill development
+- Career milestone celebrations (interviews secured, offers received)
+
+## Competitive Positioning
+
+PropelAI will differentiate itself in the marketplace through clear positioning:
+
+### Key Differentiators
+
+- AI-powered personalization that adapts to individual communication styles
+- Multimodal feedback encompassing verbal, non-verbal, and content analysis
+- Industry-specific interview simulations with authentic scenarios
+- Continuous learning system that evolves with each practice session
+
+### Messaging Framework
+
+- **Primary:** "Interview with confidence, every time"
+- **Secondary:** "The AI interview coach that adapts to you"
+- **Supporting:** "Data-driven feedback that employers notice"
+- **Technical:** "Multi-dimensional analysis of your complete interview performance"
+
+### Competitive Response
+
+- Comparison guides highlighting PropelAI's advanced features vs. alternatives
+- Free competitive assessment tool to evaluate our platform against others
+- Transparent feature-by-feature comparison tables on the website
+- User testimonials specifically addressing advantages over previous solutions
 
 ## Marketing Metrics & KPIs
-We will track the effectiveness of our marketing efforts through:
-- Customer Acquisition Cost (CAC) by channel
-- Conversion rates from free trial to paid subscription
-- User retention and engagement metrics
-- Net Promoter Score (NPS)
-- Lifetime Value (LTV) to optimize marketing spend
 
-Our initial marketing budget allocation will be weighted toward digital channels (60%), partnerships (25%), and content creation (15%), with continuous optimization based on performance data.
+We will track the effectiveness of our marketing efforts through:
+
+- Customer Acquisition Cost (CAC) by channel with weekly optimization
+- Channel-specific conversion rates from free trial to paid subscription
+- User retention rates at 30, 60, and 90 days
+- Feature engagement correlating with subscription retention
+- Net Promoter Score (NPS) with qualitative feedback analysis
+- Lifetime Value (LTV) to optimize marketing spend by acquisition source
+- Referral program effectiveness and viral coefficient
+- Content engagement metrics correlated with conversion performance
+
+Our initial marketing budget allocation will be weighted toward digital channels (50%), partnerships (20%), content creation (20%), and experimental channels (10%), with continuous optimization based on performance data.
+
+### Experimental Marketing Fund
+
+We will allocate 10% of our marketing budget to test innovative acquisition approaches:
+
+- Micro-influencer partnerships with job search content creators
+- Interactive virtual interview workshops on emerging platforms
+- AI-powered personalized marketing campaigns
+- Podcast advertising on career development shows
+- Location-based marketing near university campuses and business districts
 
 ## Launch Strategy
-PropelAI's go-to-market approach will follow a phased rollout:
-1. **Beta Testing Phase (Month 1-2)**
-   - Invite-only access for 250 selected users across target segments
-   - Intensive feedback collection and rapid iteration
-2. **Limited Launch (Month 3-4)**
-   - Expansion to 1,000 users through waitlist and referrals
-   - Refinement of onboarding process and core features
-3. **Public Launch (Month 5+)**
-   - Full-scale marketing campaign across all channels
-   - Implementation of referral program and partnership activations
 
-This methodical approach will ensure product-market fit before significant marketing investment while building initial user testimonials and case studies to fuel broader adoption.
+PropelAI's go-to-market approach will follow a phased rollout:
+
+### Beta Testing Phase (Month 1-2)
+
+- Invite-only access for 250 selected users across target segments
+- Intensive feedback collection and rapid iteration
+- Creation of initial success stories and testimonials
+- Development of conversion messaging based on user value perception
+
+### Limited Launch (Month 3-4)
+
+- Expansion to 1,000 users through waitlist and referrals
+- Refinement of onboarding process and core features
+- A/B testing of pricing presentation and subscription options
+- Initial partnership pilots with 2-3 universities and job platforms
+
+### Public Launch (Month 5+)
+
+- Full-scale marketing campaign across all channels
+- Implementation of referral program and partnership activations
+- Press release and media outreach campaign
+- Launch event with live demonstrations and user success stories
+
+This methodical approach will ensure product-market fit before significant marketing investment while building initial user testimonials and case studies to fuel broader adoption. Each phase will include detailed data collection to optimize the next stage of growth.
+
 
 # 3.6 Operational Plan
 PropelAI’s operational plan is designed to align seamlessly with our financing strategy, ensuring that resources, timelines, and growth targets work in harmony. This plan focuses on sustainable growth while maximising capital efficiency.
