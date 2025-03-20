@@ -22,14 +22,11 @@
 * 1.8 Challenges and Risk Mitigation
 
 ## 2. Market Section: Proving the Demand for PropelAI
-* 2.1 Do People Struggle with Public Speaking & Job Interviews?
-* 2.2 Would Users Pay for an AI-based Speaking Coach?
-* 2.3 Who Are Our Initial Target Customers?
-* 2.4 What is the Size of Our Addressable Market?
-* 2.5 Market Research & Key Findings
-* 2.6 Customer & Industry Feedback Analysis
-* 2.7 Competitive Landscape: Existing Solutions
-* 2.8 PropelAI's Unique Selling Proposition (USP)
+* 2.1 Key Market Validation Questions
+* 2.2 Competitive Landscape Analysis
+* 2.3 Customer & Industry Feedback (Primary Research: Surveys, Interviews)
+* 2.4 Market Research & Findings (Secondary Research)
+* 2.5 Competitive Analysis & Unique Selling Proposition (USP)
 
 ## 3. Strategy: Bringing PropelAI to Market
 * 3.1 Legal Status and Business Structure
@@ -446,7 +443,7 @@ Users are presented with a streamlined dashboard offering two primary paths:
 ![PropelAI Logo](https://github.com/kajolpawar22/Entrepreneurship/blob/main/propelai-flowchart-2%202025-03-20%20at%2015.13.07.png)
 *This flowchart illustrates the user journey for the PropelAI platform, showcasing the various stages and steps involved in using the platform for interview and public speaking preparation, from profile creation to post-session analysis and improvement tracking.*
 
-## 1.9 Challenges and Risk Mitigation
+## 1.8 Challenges and Risk Mitigation
 PropelAI operates in a dynamic and competitive landscape, facing technical, market, user experience, ethical, and financial challenges. Below, we outline these challenges and the strategies in place to mitigate them, ensuring long-term success and user satisfaction.
 
 #### 1. Technical Challenges
