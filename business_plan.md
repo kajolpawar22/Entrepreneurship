@@ -141,7 +141,7 @@ Users also receive comparative examples (side-by-side with industry experts) and
 Additionally, PropelAI provides a personalized improvement plan with specific practice exercises and benchmarking against successful candidates, ensuring targeted, actionable steps for continuous growth.
 
 #### Why Investors Should Care:
-PropelAI is not just a product—it’s a solution to a widespread and costly issue. Poor communication skills hinder career advancement, cost individuals job opportunities, and prevent companies from securing top talent due to mismatched interview performance. By bridging this gap with an AI-driven platform, PropelAI has the potential to capture a significant share of the $10 billion professional training market.
+PropelAI is not just a product—it’s a solution to a widespread and costly issue. Poor communication skills hinder career advancement, cost individuals job opportunities, and prevent companies from securing top talent due to mismatched interview performance. By bridging this gap with an AI-driven platform, PropelAI has the potential to capture a significant share of the USD 163.5 billion (as of 2023) professional training market.
 For investors, PropelAI presents a unique opportunity to support a product that combines cutting-edge technology with a clear market demand. The platform delivers measurable results, such as higher interview success rates, reduced anxiety, and improved communication skills, making it an essential tool for job seekers, professionals, and educators.
 Its subscription-based model ensures recurring revenue, while its scalable architecture positions PropelAI for rapid expansion into new markets and industries, offering substantial growth potential.
 
