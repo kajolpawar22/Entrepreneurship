@@ -894,45 +894,56 @@ PropelAI fills a **critical market gap** by combining **personalized AI-driven f
 
 ### Legal Status
 
-PropelAI will operate as a **Private Limited Company (Ltd.)** registered with Companies House in the UK. This structure requires a minimum capital of **£1** and at least one director who will ensure statutory compliance. Registration typically takes **24-48 hours** and costs approximately **£12 online**.
+PropelAI will operate as a **Private Limited Company (Ltd.)** registered with Companies House in the UK. This legal structure provides **limited liability protection**, ensuring that the founders' personal assets remain separate from business debts. Registration requires at least one director and can be completed online within **24-48 hours** for approximately **£12**.
 
-This legal framework provides several strategic advantages:
+#### Advantages of a Ltd. Company:
+- **Credibility** with investors, corporate clients, and educational institutions.
+- **Investment readiness**, allowing for share issuance to angel investors and venture capital firms.
+- **Tax benefits**, including the UK’s **19% corporation tax rate** and eligibility for **R&D tax credits** (up to **33p for every £1 spent on innovation**).
 
-- **Limited liability protection** that shields founders' personal assets from business debts  
-- **Enhanced credibility** with investors, corporate clients, and educational institutions  
-- **Ability to issue shares**, facilitating investment from angel investors and venture capital firms  
-- **Access to tax benefits**, including the UK's competitive **19% corporation tax rate** and **R&D tax credits** (up to **33p for every £1** spent on qualifying innovation)  
+#### Compliance with UK Laws & Industry Regulations:
+- **GDPR & Data Protection Act 2018** – Ensuring secure handling of user data.
+- **Intellectual Property (IP) Laws** – Protecting proprietary AI algorithms, learning methodologies, and trademarks.
+- **Employment Legislation** – Adhering to fair labor laws as the team expands.
+- **Financial Conduct Authority (FCA) Guidelines** – If offering regulated financial education services in the future.
 
-PropelAI will adhere to all relevant UK regulations, including:
+As PropelAI scales, we will seek **patent protection** for our proprietary AI-powered assessment models and consider **expansion into international markets** with subsidiary registrations in the **US and EU**.
 
-- **GDPR and Data Protection Act 2018** for secure handling of user data  
-- **Intellectual property laws** to protect our AI algorithms and learning methodologies  
-- **Employment legislation** when expanding our team  
-- **Financial Conduct Authority (FCA) requirements** if offering specific financial education services  
+---
 
-## Business Structure
+### Business Structure
 
-The company will implement a robust governance framework:
+PropelAI will implement a **structured governance model** to ensure efficient decision-making and long-term sustainability.
 
-- **Board of Directors** comprising the founding team: **CEO, CTO, and CFO**  
-- **Advisory board** featuring subject matter experts from AI technology, HR, and education sectors  
-- **Clear reporting lines** between technical development, product management, and customer success teams  
+#### Ownership and Equity Distribution
 
-A comprehensive shareholder agreement will establish:
+- **Founders:** 70%
+- **Employee Stock Option Pool:** 15% (to attract and retain top talent)
+- **Early Investors:** 15%
 
-- **Initial equity distribution** (founders: **70%**, employee option pool: **15%**, early investors: **15%**)  
-- **Voting rights and decision-making thresholds** for strategic changes  
-- **Vesting schedules** (**4-year vesting with 1-year cliff** for founders and early employees)  
-- **Anti-dilution provisions** and **exit procedures**  
+All founders and key employees will be subject to a **4-year vesting schedule with a 1-year cliff**, ensuring long-term commitment.
 
-As PropelAI scales, we will pursue:
+## Governance Framework
 
-- **Patent protection** for our proprietary AI communication assessment algorithms  
-- **Potential international subsidiary registration** in key target markets (**US, EU**)  
-- **Strategic partnerships** requiring formal legal agreements with educational institutions  
-- **Certified B Corporation status** to formalize our commitment to social impact  
+- **Board of Directors** – Comprising the **CEO, CTO, and CFO**, responsible for strategic decision-making.
+- **Advisory Board** – Industry experts from **AI, HR, and education** sectors to provide guidance on product development and market positioning.
 
-Financial governance will include **quarterly board reviews**, **annual external audits**, and **transparent reporting** to Companies House and HMRC, establishing PropelAI as a legally sound, well-structured enterprise positioned for sustainable growth and investor confidence.
+### Operational Structure
+
+Teams will be divided into the following functional areas:
+- **AI & Engineering** – Algorithm development, model training, and system architecture.
+- **Product & UX Design** – Enhancing the AI coaching experience.
+- **Business Development & Partnerships** – Driving adoption with universities, recruiters, and enterprises.
+- **Compliance & Data Security** – Ensuring legal and regulatory compliance.
+
+#### Corporate Governance & Compliance
+
+- **Quarterly board meetings** for financial and strategic reviews.
+- **Annual external audits** for transparency and accountability.
+- **Legal agreements** for partnerships with universities and enterprises.
+- **Certified B Corporation status** *(long-term goal)* to formalize our commitment to social impact.
+
+PropelAI's business structure is designed to support **scalability, regulatory compliance, and investor confidence**, positioning us as a trusted **AI-driven public speaking and interview coaching platform**.
 
 
 ## 3.2 Team and Roles  
