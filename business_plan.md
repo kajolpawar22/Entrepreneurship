@@ -644,7 +644,7 @@ We conducted primary research through surveys and interviews with 71 potential u
 ![My Image](https://raw.githubusercontent.com/kajolpawar22/Entrepreneurship/main/Picture%208.png)
 ![My Image](https://raw.githubusercontent.com/kajolpawar22/Entrepreneurship/main/Picture%209png.png)
 ![My Image](https://raw.githubusercontent.com/kajolpawar22/Entrepreneurship/main/Picture%2010.png)
-![My Image](https://raw.githubusercontent.com/kajolpawar22/Entrepreneurship/main/Picture%2011.png)
+![My Image](https://github.com/kajolpawar22/Entrepreneurship/blob/main/last%20slide.png)
 
 ---
 
