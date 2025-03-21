@@ -49,7 +49,7 @@ In today's knowledge economy, communication effectiveness has become the definin
 
 ### Our Vision: Democratizing Communication Excellence:
 
-PropelAI was created with a singular vision: to democratize access to world-class communication training through personalized, AI-powered coaching. The platform transforms preparation from passive consumption of generic advice to active engagement with customized feedback loops tailored to each user's unique background, goals, and target contexts. Whether you are preparing for a pivotal job interview at a top-tier company or crafting a presentation that will showcase your leadership capabilities, PropelAI provides the specialized guidance traditionally available only through expensive 1:1 coaching.
+PropelAI is created with a singular vision: to democratize access to world-class communication training through personalized, AI-powered coaching. The platform transforms preparation from passive consumption of generic advice to active engagement with customized feedback loops tailored to each user's unique background, goals, and target contexts. Whether you are preparing for a pivotal job interview at a top-tier company or crafting a presentation that will showcase your leadership capabilities, PropelAI provides the specialized guidance traditionally available only through expensive 1:1 coaching.
 
 ### Document Purpose & Structure:
 
@@ -512,6 +512,7 @@ PropelAI operates in a dynamic and competitive landscape, facing technical, mark
   - **Mitigation**: Diversifying revenue streams through enterprise licenses, one-time purchases (e.g., interview packs), and upselling opportunities like advanced analytics and coaching sessions.
 
 ## 2. Market Section: Proving the Demand for PropelAI
+
 This section validates the substantial market opportunity for PropelAI by examining critical market questions, presenting comprehensive research findings, and demonstrating our competitive differentiation.
 
 ## 2.1 Key Market Validation Questions
@@ -520,11 +521,11 @@ Our market research strategy focused on answering four fundamental questions to 
 ### 1. Do people struggle with public speaking & job interviews?
 **Substantial Evidence Confirms This Challenge:**
 
-- **The National Institute of Mental Health** reports that **77% of people** experience anxiety related to public speaking.
-- **Yale University Research** found that **40% of interview failures** stem from poor communication skills rather than technical qualifications.
+- **The National Institute of Mental Health** reports that **77% of people** experience anxiety related to public speaking. *[NIH](https://pmc.ncbi.nlm.nih.gov/articles/PMC3647380/)*
+- **A study by **StandOutCV** found that **41%** of candidates stress about answering difficult questions during job interviews. **[StandOutCV](https://standout-cv.com/stats/job-interview-statistics#:~:text=against%20discrimination%20rules)***
 - **The GITNUX 2024 Communication Report** reveals that **75% of professionals** experience anxiety related to public speaking scenarios, with **19.2% fearing it more than death**.
 - **Harvard Business School Survey** discovered that **67% of job applicants** believe their interview performance didn’t accurately reflect their capabilities.
-- **LinkedIn Talent Solutions** reports that **53% of hiring managers** have eliminated qualified candidates due to poor communication during interviews.
+  
 
 The evidence is clear: **communication anxiety** represents a widespread challenge with significant professional consequences.
 
@@ -588,7 +589,6 @@ The data conclusively shows that our target market **highly values communication
 ### 4. What is the size of our addressable market?
 **E-Learning Market Analysis:**
 
-- **Current Market Size (2024)**: $314.03 billion
 - **2025 Projected Size**: $354.71 billion (13.0% CAGR)
 - **2029 Projected Size**: $625.3 billion (15.2% CAGR)
 
@@ -602,11 +602,6 @@ The data conclusively shows that our target market **highly values communication
 **Interview Preparation Segment:**
 - Estimated at **$4.2 billion** globally with **11.3% CAGR**
 - Digital solutions capturing increasing market share (47% of segment by 2025)
-
-**Addressable User Base:**
-- **58 million** monthly job applications on LinkedIn alone
-- **24 million** active job seekers in the UK/US markets
-- **4.2 million** graduate students entering job markets annually
 
 ![User Journey Flowchart](https://github.com/kajolpawar22/Entrepreneurship/blob/main/Picture%201.png) 
 
