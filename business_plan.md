@@ -628,7 +628,7 @@ PropelAI's unique combination of accessibility, personalization, and interview-s
 
 ## 2.3 Customer & Industry Feedback (Primary Research: Surveys, Interviews)
 
-We conducted primary research through surveys and interviews with 73 potential users (students and working professionals) and industry experts to validate the market demand. Here’s what we learned:
+We conducted primary research through surveys and interviews with 71 potential users (students and working professionals) and industry experts to validate the market demand. Here’s what we learned:
 
 ### 1. Job Seekers & Students (Potential Users)
 **Method**: Online surveys were conducted via Google Forms.
@@ -1762,6 +1762,12 @@ Our partnership approach aligns with our three-phase growth strategy:
 | Initial | Months 1-6      | 200-300  | £2,500-£3,500     | 2-3       | Founder investment   |
 | Growth  | Months 7-18     | 5K-10K   | £40K-£50K         | 4-6       | Angel/Accelerator    |
 | Scaling | Months 19-36    | 20K-50K  | £200K-£250K       | 10-15     | Series A             |
+
+# Acknowledgment
+
+*We used Generative AI (GenAI) to enhance the wording of our responses. However, the entire business idea, product development, strategy, and market research were conducted by our team. All ideas, structure, and original content were entirely developed by us. GenAI was solely used for language refinement, ensuring clarity and readability.*
+
+
 
 
 # References
