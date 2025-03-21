@@ -1763,3 +1763,33 @@ Our partnership approach aligns with our three-phase growth strategy:
 | Growth  | Months 7-18     | 5K-10K   | £40K-£50K         | 4-6       | Angel/Accelerator    |
 | Scaling | Months 19-36    | 20K-50K  | £200K-£250K       | 10-15     | Series A             |
 
+
+# References
+
+- **Allied Market Research, 2024.** Corporate Training Market Research, 2035. [Available online](https://www.alliedmarketresearch.com/corporate-training-market-A06445) [Accessed 10th March 2025]
+- **Allied Market Research, 2024.** Online Soft Skills Training Market Insight: 2032. [Available online](https://www.alliedmarketresearch.com/online-soft-skills-training-market-A295265) [Accessed 9th March 2025]
+- **Bessalel, S., 2024.** LinkedIn 2024- Most In-Demand Skills: Learn the Skills Companies Need Most. LinkedIn Learning Blog. [Available online](https://www.linkedin.com/business/learning/blog/top-skills-and-courses/most-in-demand-skills) [Accessed 8th March 2025]
+- **Big Interview, 2025.** [Available online](https://www.biginterview.com/) [Accessed 6th March 2025]
+- **ChatGPT, 2025.** San Francisco, Calif.: OpenAI. [Available online](https://chatgpt.com/share/782cb099-a0dc-45b1-8da4-0e99713f2d45) [Accessed 2nd March 2025]
+- **Fennell, A., 2025.** Job interview statistics US. StandOutCV. [Available online](https://standout-cv.com/usa/stats-usa/job-interview-statistics-us) [Accessed 10th March 2025]
+- **Fennell, A., 2025.** Job Search Statistics in the UK. StandOutCV. [Available online](https://standout-cv.com/stats/job-search-statistics-uk) [Accessed 10th March 2025]
+- **Fennell, A., 2024.** Job Search statistics US. StandOutCV. [Available online](https://standout-cv.com/usa/stats-usa/job-search-statistics-us) [Accessed 4th March 2025]
+- **Gitnux, 2025.** Academic and Research Statistics. [Available online](https://gitnux.org/academic-and-research-statistics/) [Accessed 29th February 2025]
+- **Grand View Research, 2025.** AI In Education Market Size & Trends. [Available online](https://www.grandviewresearch.com/industry-analysis/artificial-intelligence-ai-education-market-report) [Accessed 27th February 2025]
+- **Hays, 2024.** Over half of professionals (51%) cite negative interview experiences, increasing to 56% for older workers. Hays. [Available online](https://www.hays.co.uk/media-centre/press-releases/content/negative-interview-experiences) [Accessed 28th February 2025]
+- **Heeren, A. et al, 2013.** Assessing public speaking fear with the short form of the Personal Report of Confidence as a Speaker scale. National Library of Medicine. [Available online](https://pmc.ncbi.nlm.nih.gov/articles/PMC3647380/) [Accessed 21st February 2025]
+- **IBM, 2024.** Data Suggests Growth in Enterprise Adoption of AI. [Available online](https://newsroom.ibm.com/2024-01-10-Data-Suggests-Growth-in-Enterprise-Adoption-of-AI-is-Due-to-Widespread-Deployment-by-Early-Adopters) [Accessed 1st March 2025]
+- **Interview Buddy, 2025.** [Available online](https://interviewbuddyai.com/) [Accessed 2nd March 2025]
+- **Interviewing.io, 2025.** [Available online](https://interviewing.io/) [Accessed 14th March 2025]
+- **JDP, 2025.** [Available online](https://www.jdp.com/blog/how-to-prepare-for-interviews-2020/) [Accessed 26th February 2025]
+- **LinkedIn, 2025.** About us. [Available online](https://news.linkedin.com/about-us) [Accessed 14th February 2025]
+- **Mykhalevych, N., 2024.** Speak with confidence: Tackling the UK’s public speaking phobia. Preply. [Available online](https://preply.com/en/blog/study-of-public-speaking-fears/) [Accessed 5th March 2025]
+- **Orai, 2025.** [Available online](https://orai.com/) [Accessed 12th March 2025]
+- **Pumble, 2025.** Workplace Communication Statistics in 2025. [Available online](https://pumble.com/learn/communication/communication-statistics/) [Accessed 11th March 2025]
+- **Robin Waite, 2025.** Business Coaches' Charges in the UK: A Comprehensive Guide. [Available online](https://www.robinwaite.com/blog/business-coaches-charges-in-the-uk-a-comprehensive-guide) [Accessed 17th February 2025]
+- **Schaeffer, K., 2022.** 10 facts about today’s college graduates. Pew Research Centre. [Available online](https://www.pewresearch.org/short-reads/2022/04/12/10-facts-about-todays-college-graduates/) [Accessed 19th February 2025]
+- **Solomon, L., 2016.** Two-Thirds of Managers Are Uncomfortable Communicating with Employees. Harvard Business Review. [Available online](https://interactstudio.com/wp-content/uploads/2020/05/Managers-are-Uncomfortable-by-Lou-Solomon.pdf) [Accessed 14th February 2025]
+- **Toastmasters, 2025.** [Available online](https://www.toastmasters.org/) [Accessed 12th February 2025]
+- **The Business Research Company, 2025.** E-Learning Global Market Report 2025. [Available online](https://www.thebusinessresearchcompany.com/report/e-learning-global-market-report) [Accessed 16th February 2025]
+- **The Times, 2024.** We’ve got good degrees — but we can’t find good jobs. [Available online](https://www.thetimes.com/uk/education/article/weve-got-good-degrees-but-we-cant-find-good-jobs-nmpbq008l) [Accessed 7th March 2025]
+- **Verified Market Research, 2025.** Interview Preparation Tool Market Size And Forecast. [Available online](https://www.verifiedmarketresearch.com/product/interview-preparation-tool-market/) [Accessed 6th March 2025]
