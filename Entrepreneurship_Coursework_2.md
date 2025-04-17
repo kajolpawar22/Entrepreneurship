@@ -311,6 +311,9 @@ The prototype offers a clear and intuitive user experience, simulating the real-
 ### 1. Landing Page
  ![PropelAI Logo](https://github.com/kajolpawar22/Entrepreneurship/blob/main/fornt_page.png)
  ![PropelAI Logo](https://github.com/kajolpawar22/Entrepreneurship/blob/main/startting.png)
+![PropelAI Logo](https://github.com/kajolpawar22/Entrepreneurship/blob/main/start_interview.png)
+![PropelAI Logo](https://github.com/kajolpawar22/Entrepreneurship/blob/main/real_time.png)
+![PropelAI](https://github.com/kajolpawar22/Entrepreneurship/blob/main/endd.png)
 
 
 
