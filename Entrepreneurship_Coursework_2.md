@@ -314,6 +314,10 @@ The prototype offers a clear and intuitive user experience, simulating the real-
 ![PropelAI Logo](https://github.com/kajolpawar22/Entrepreneurship/blob/main/start_interview.png)
 ![PropelAI Logo](https://github.com/kajolpawar22/Entrepreneurship/blob/main/real_time.png)
 ![PropelAI](https://github.com/kajolpawar22/Entrepreneurship/blob/main/endd.png)
+![PropelAI](https://github.com/kajolpawar22/Entrepreneurship/blob/main/interview_start.png)
+![Propel AI](https://github.com/kajolpawar22/Entrepreneurship/blob/main/mid.png)
+![propelAi](https://github.com/kajolpawar22/Entrepreneurship/blob/main/final.png)
+
 
 
 
