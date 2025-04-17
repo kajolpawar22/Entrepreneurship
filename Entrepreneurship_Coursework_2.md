@@ -22,7 +22,7 @@
 
 ## 4. Prototype Development 
 - **4.1 Core Features Demonstrated**  
-- **4.2 Screenshots or Demo Walkthrough**  
+- **4.2 Screenshots or Demo Walkthrough** 
 
 ## 6. Business Operations & Setup
 - **6.1 Company Formation Status** (Ltd, brand, IP etc.)  
@@ -310,12 +310,21 @@ The prototype offers a clear and intuitive user experience, simulating the real-
 ## 4.2 Screenshots or Demo Walkthrough**
 ### 1. Landing Page
  ![PropelAI Logo](https://github.com/kajolpawar22/Entrepreneurship/blob/main/fornt_page.png)
+ 
+### 2. On this Interview Preparation page, you can select your position title, industry, experience level, and interview duration. You can also choose the type of AI assistant you'd like to guide your session. 
  ![PropelAI Logo](https://github.com/kajolpawar22/Entrepreneurship/blob/main/startting.png)
+### 3. **This page displays the number of questions you can expect, along with some important instructions—once you're ready, you can begin your interview.**
 ![PropelAI Logo](https://github.com/kajolpawar22/Entrepreneurship/blob/main/start_interview.png)
+### 4. This is the main question page, where you'll receive real-time feedback. Once you complete a question, you can move on to the next one.
 ![PropelAI Logo](https://github.com/kajolpawar22/Entrepreneurship/blob/main/real_time.png)
+### 5. This is your detailed interview report. You'll receive a score based on your responses, along with specific tips highlighting what went wrong and how you can improve.
+
 ![PropelAI](https://github.com/kajolpawar22/Entrepreneurship/blob/main/endd.png)
+### 6. In this page you can set up your presntation scenario
 ![PropelAI](https://github.com/kajolpawar22/Entrepreneurship/blob/main/interview_start.png)
+### 7. This is the main page where you will practise your prestation,speech or pitch.
 ![Propel AI](https://github.com/kajolpawar22/Entrepreneurship/blob/main/mid.png)
+### 8. This is your detailed report for public speaking. You'll receive a score based on your responses, along with specific tips highlighting what went wrong and how you can improve.
 ![propelAi](https://github.com/kajolpawar22/Entrepreneurship/blob/main/final.png)
 
 
