@@ -199,6 +199,12 @@ We have successfully launched PropelAI's digital presence strategy, centered aro
 
 This digital foundation establishes PropelAI's market positioning while creating channels for continued market validation, potential partnerships, and future user acquisition.
 
+![propel](https://github.com/kajolpawar22/Entrepreneurship/blob/main/linkedin_1.png)
+
+![asd](https://github.com/kajolpawar22/Entrepreneurship/blob/main/linkedin_2.png)
+
+These are social media templates for our startup, designed to be shared on LinkedIn and other platforms.
+
 ---
 
 ## 3.2 Execution Timeline
