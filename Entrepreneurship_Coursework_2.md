@@ -307,7 +307,10 @@ The prototype offers a clear and intuitive user experience, simulating the real-
 
 
 
-## 4.2 Screenshots or Demo Walkthrough**  
+## 4.2 Screenshots or Demo Walkthrough**
+### 1. Landing Page
+ ![PropelAI Logo](https://github.com/kajolpawar22/Entrepreneurship/blob/main/fornt_page.png)
+
 
 
 # 5. Business Operations & Setup
