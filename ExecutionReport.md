@@ -50,40 +50,44 @@ We identified three primary target customer groups that we deemed would most ben
 
 ![Customers](https://github.com/abisolap123/Entrepreneurship/blob/main/customers.png)
 
-1.	Active job seekers.
+**1.	Active job seekers.**
+
 These are individuals who are currently in the process of applying for jobs and preparing for interviews. PropelAI will provide the tools needed to practice common interview scenarios and improve clarity as well as confidence of communication. 
 
-2.	Professionals seeking career advancement.
+**2.	Professionals seeking career advancement.**
+
 Our application also caters to those currently employed but who are striving to migrate to a different job. Often, time is scarce for individuals in this situation; operating a full-time job alongside the search process is exhaustive. Instead of manual preparation, our application aims to streamline the process of interview preparation for a new role/ new company. 
 
-3.	Higher education students.
+**3.	Higher education students.**
+
 These individuals could be soon to be graduates, looking to apply for a graduate scheme or a first-year student searching for an internship. Students at university or enrolled in other academic programs who are preparing to join the workforce often face the struggle of having limited interview and public speaking experience. 
 
-Our tool presents a solution to ensuring students get the confidence and skills needed to navigate professional environments.  We wanted to create an application that we could benefit from ourselves when breaking into the job market and furthermore in our professional careers. 
+Our tool presents a solution to ensuring students get the confidence and skills needed to navigate professional environments.  *We wanted to create an application that we could benefit from ourselves when breaking into the job market and furthermore in our professional careers.* 
 
 
 ## 1.2 Customer Needs
-Why should you care about PropelAI?
+Why should **_you_** care about PropelAI?
 
 ![Speech Bubble](https://github.com/abisolap123/Entrepreneurship/blob/main/bubble.png) 
 
 The job market has become fiercely competitive. Companies seek candidates who possess a broad range of skills, and the interview process is increasingly intensive/challenging. Having the qualifications are no longer enough- presenting yourself and the clarity and confidence of your communication of these qualifications is key. 
 
-PropelAI empowers individuals to build interview and public speaking confidence, put themselves ahead of the market and upskill to become a top candidate.
+**PropelAI empowers individuals to build interview and public speaking confidence, put themselves ahead of the market and upskill to become a top candidate.**
 
 From our in-depth primary market research, the most prevalent challenges faced by students and working professionals when preparing for public speaking and interviews were:
 
-1.	Anxiety/lack of confidence.
-2.	Difficulty tailoring responses for specific companies/roles.
-3.	Difficulty answering behavioural and general HR questions.
+- **1. Anxiety/lack of confidence.**
+- **2.	Difficulty tailoring responses for specific companies/roles.**
+- **3.	Difficulty answering behavioural and general HR questions.**
+
 
 These are the needs that PropelAI aimed to address and satisfy.
 
 ![Primary Research Chart](https://github.com/abisolap123/Entrepreneurship/blob/main/chart.png)
 
-How does Propel AI offer a solution?
+**_How does Propel AI offer a solution?_**
 
-![Table](https://github.com/abisolap123/Entrepreneurship/blob/main/table.png)
+![Table](https://github.com/abisolap123/Entrepreneurship/blob/main/table1.png)
 
 
 # 3. The Product
@@ -102,27 +106,27 @@ The product is built around personalisation, where users enter their specific go
  PropelAI is built to fit into real people's lives, across different needs and backgrounds:
  ![Image](https://github.com/abisolap123/Entrepreneurship/blob/main/fitintoyourlife.png)
 
- •	Students preparing for class presentations, thesis, group projects, or public speaking contests can use the app to rehearse and refine their delivery, tone, and structure. 
-•	Job seekers use it to prepare for different interview types, from casual chats to high-stakes panel interviews, and improve storytelling around their achievements.
-•	Professionals use it for improving how they speak in meetings, give updates to leadership, or pitch ideas to clients. 
-•	Entrepreneurs and freelancers can rehearse product pitches, investor presentations, and networking conversations. 
+ - **Students** preparing for class presentations, thesis, group projects, or public speaking contests can use the app to **rehearse** and refine their delivery, tone, and structure.
+ - **Job seekers** use it to prepare for different interview types, from casual chats to high-stakes panel interviews, and improve storytelling around their achievements.
+ - **Professionals** use it for improving how they speak in meetings, give updates to leadership, or pitch ideas to clients.
+ - **Entrepreneurs** and **freelancers** can rehearse product pitches, investor presentations, and networking conversations. 
 
 The application supports different modes of communication, so it’s not only about answering questions but also about: 
 
-•	Structuring thoughts logically.
-•	Using confident body language and tone. 
-•	Controlling filler words and awkward pauses. 
-•	Building strong introductions and conclusions.
+- **Structuring thoughts logically.**
+- **Using confident body language and tone.**
+- **Controlling filler words and awkward pauses.**
+- **Building strong introductions and conclusions.**
 
 ## 3.1.3 How it fits into customers’ lives? 
 PropelAI is designed to seamlessly integrate into the everyday routine of users:
 
-•	Students can use it to rehearse interview questions for internships or graduate schemes.
-•	Professionals can practice for job interviews, client presentations, or team briefings. 
-•	Educators or institutions can assign it as a soft skills training tool to enhance classroom engagement and communication development. 
-•	Anyone with stage fright or fear of public speaking can build confidence gradually through private, self-paced sessions.
+- Students can use it to **rehearse** interview questions for internships or graduate schemes.
+- Professionals can **practice** for job interviews, client presentations, or team briefings.
+- Educators or institutions can assign it as a **soft skills training** tool to enhance **classroom engagement** and **communication development**.
+- Anyone with stage fright or fear of public speaking can build confidence gradually through **private, self-paced** sessions.
 
-By offering flexible access and practice-on-demand, users can prepare from home, while commuting, or in between work and study hours, without the need for expensive coaching or live sessions. 
+By offering **flexible** access and **practice-on-demand**, users can prepare from home, while commuting, or in between work and study hours, **without** the need for **expensive coaching** or live sessions. 
 
 ![image](https://github.com/abisolap123/Entrepreneurship/blob/main/wherePropelAI.png)
 
@@ -130,37 +134,37 @@ By offering flexible access and practice-on-demand, users can prepare from home,
 
 PropelAI follows a freemium and scalable business model that ensures both social impact and business sustainability. 
 
-1.	Free Tier: 
-o	Basic access to mock interview simulations and public speaking scenarios. 
-o	Limited daily practice.
-o	Basic speech feedback (e.g., speed, filler words, volume).
+**1.	Free Tier:** 
+  - Basic access to mock interview simulations and public speaking scenarios.
+  - Limited daily practice.
+  - Basic speech feedback (e.g., speed, filler words, volume).
 
-2.	Premium Tier (Individuals): 
-o	Subscription-based access (monthly or annual). 
-o	Features like role-specific training, AI-generated model answers, voice tone and pace analytics, custom speaking exercises (e.g., elevator pitch, TED-style talks). 
-o	Personalised learning paths based on user goals.
+**2.	Premium Tier (Individuals):** 
+  - Subscription-based access (monthly or annual).
+  - Features like role-specific training, AI-generated model answers, voice tone and pace analytics, custom speaking exercises (e.g., elevator pitch, TED-style talks).
+  - Personalised learning paths based on user goals.
 
-3.	Institutional Partnerships (B2B): 
-o	Universities and colleges can offer the platform to students as part of career services or academic development. 
-o	Corporate HR or L&D teams can use PropelAI for employee communication training, onboarding, or leadership development. 
+**3.	Institutional Partnerships (B2B):** 
+  - Universities and colleges can offer the platform to students as part of career services or academic development.
+  - Corporate HR or L&D teams can use PropelAI for employee communication training, onboarding, or leadership development. 
 
 ![image](https://github.com/abisolap123/Entrepreneurship/blob/main/PaymentTiers.png) 
 
 
 This approach ensures that: 
-•	The product is affordable to those who need it most. 
-•	Revenue comes from multiple channels (B2C + B2B). 
-•	The product remains scalable, as the AI backend allows for high-quality coaching without hiring human trainers.
+- The product is **affordable** to those who need it most.
+- Revenue comes from **multiple channels** (B2C + B2B).
+- The product remains **scalable**, as the AI backend allows for high-quality coaching without hiring human trainers.
 
 
 ## 3.1.5 Real value delivered to users (not just features)
 
 PropelAI’s value isn’t only in its features, but in how it makes a real difference in people’s confidence, communication, and career. Here’s how:
-•	Builds real-world communication skills – not just for interviews, but for meetings, presentations, pitches, and group discussions. 
 
-•	Reduces speaking anxiety – through repetition, feedback, and a safe space to practice. 
-•	Saves time – no need to book coaches or search the internet for tips; everything is built into the app. 
-•	Prepares users for life – communication is a lifelong skill, and PropelAI helps build it from the ground up.
+- Builds **real-world** communication skills – not just for interviews, but for meetings, presentations, pitches, and group discussions.
+- **Reduces** speaking **anxiety** – through repetition, feedback, and a safe space to practice.
+- Saves **time** – no need to book coaches or search the internet for tips; everything is built into the app.
+- **Prepares** users for life – communication is a lifelong skill, and PropelAI helps build it from the ground up.
 
 
 # 3.2 Product Demonstration
@@ -244,19 +248,19 @@ PropelAI’s value isn’t only in its features, but in how it makes a real diff
 - Logo placed strategically on the left for brand recognitions
 
 # 4. Development Challenges
+The development of the business has not always been smooth sailing, this section details some of the key challenges we encountered and our solution steps to tackle them.
+
 ## 4.1 Technical Challenges
 
 ### **AI Implementation Barriers**
 - **Challenge:** Developing an AI system capable of analyzing communication patterns, providing contextual feedback, and adapting to different professional scenarios requires specialized expertise and substantial training data.
-- **Current Status:** We've researched available third-party NLP APIs that could support initial functionality while we develop more customized solutions.
 - **Mitigation Plan:** We're pursuing a hybrid approach that leverages existing AI services (such as Azure Cognitive Services or Google Cloud NLP) for our MVP, while simultaneously developing a roadmap for more specialized models as we gather user data and feedback.
 
 ### **Technical Performance Considerations**
 - **Challenge:** Real-time communication analysis requires efficient processing to provide timely feedback without degrading user experience.
-- **Current Status:** Our prototype has identified potential performance bottlenecks, particularly around simultaneous audio processing and feedback generation.
 - **Mitigation Plan:** We're exploring edge processing for certain analysis components and investigating optimization techniques to ensure responsive performance even on lower-bandwidth connections.
 
-  ## 4.2 Market Challenges
+## 4.2 Market Challenges
 As we've begun introducing PropelAI to the market, several key validation challenges have emerged:
 
 ### **Communicating AI-Powered Value Proposition**
@@ -264,10 +268,11 @@ As we've begun introducing PropelAI to the market, several key validation challe
 - **Evidence:** In our initial user interviews, approximately 60% of participants asked for clarification about how the AI would analyze their communication effectively.
 - **Mitigation Strategy:** We've revised our demonstration script to include concrete examples of AI-powered insights. We're also developing simple comparison graphics that illustrate the difference between traditional and AI-enhanced communication coaching.
 
-### **Feature Prioritization Based on User Feedback**
-- **Challenge:** User feedback has revealed divergent priorities between different segments of our target market. Early-career professionals prioritize interview preparation, while more established professionals seek presentation coaching.
-- **Evidence:** Our survey of 25 potential users showed a clear split in priority features based on professional experience level.
-- **Mitigation Strategy:** We're adapting our development roadmap to support a modular approach, allowing users to focus on their priority use case while maintaining a consistent feedback framework across features.
+### **Differentiation in a Competitive Landscape**
+
+- **Challenge:** As we've expanded our market research, we've identified several adjacent competitors with overlapping value propositions, making clear differentiation critical.
+- **Evidence:** Competitive analysis identified 3 existing solutions with partial feature overlap, though none offering our specific combination of interview and presentation coaching.
+- **Mitigation Strategy:** We've refined our messaging to emphasize PropelAI's comprehensive approach to professional communication, highlighting the advantage of a unified platform that addresses multiple communication scenarios within a consistent learning environment.
 
 # 5. Reflections & Next Steps
 ## 5.1 What went well?
@@ -295,8 +300,21 @@ On our entrepreneurial journey we have succeeded in:
 We successfully designed and implemented a functional frontend prototype showcasing PropelAI's core experience. The prototype includes 7 key user interfaces spanning the user journey from onboarding through practice scenarios to feedback review.
 
 ### **Investor Outreach**
-### **Company Formation Progress**
+Our investor strategy is in the preparation stage:
 
+- Researched funding options appropriate for our current development phase.
+- Created a basic pitch outline highlighting the problem and our solution.
+- Identified local angel investor networks to approach after prototype completion.
+- Planning to apply for university entrepreneurship competitions in the coming months.
+
+We are focusing on building a strong product foundation before actively seeking investment.
+
+### **Company Formation Progress**
+- Began researching requirements for Limited company registration.
+- Identified documentation needed for future company formation.
+- Exploring cost-effective business banking options for startups.
+- Conducted preliminary trademark searches to ensure "PropelAI" availability.
+  
 ### **Targeted User Engagement**
 Our disciplined approach to early user research yielded valuable insights despite our pre-launch status:
 
