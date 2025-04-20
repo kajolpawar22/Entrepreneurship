@@ -132,7 +132,6 @@ PropelAI is designed to seamlessly integrate into the everyday routine of users:
 
 By offering **flexible** access and **practice-on-demand**, users can prepare from home, while commuting, or in between work and study hours, **without** the need for **expensive coaching** or live sessions. 
 
-![image](https://github.com/abisolap123/Entrepreneurship/blob/main/wherePropelAI.png)
 
 ## 3.1.4 Commercialising it in a sustainable manner (business model) 
 
