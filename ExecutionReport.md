@@ -1,5 +1,6 @@
 ![Cover Page](https://github.com/abisolap123/Entrepreneurship/blob/main/cover.png) 
 
+### **PropelAI Prototype:** https://preview--yoodlify-sparkle-feature.lovable.app  
 
 # Table of Contents
 ## 1. Introduction
@@ -22,9 +23,12 @@
 - **5.1 What Went Well?**  
 - **5.2 Improvements**
 - **5.3 Long-Term Goals**
-## 6. Concluding Remarks
-- **6.1 Conclusion**
-## 7. References
+
+
+
+
+
+
 
 
 # 1. Introduction
@@ -252,8 +256,6 @@ The development of the business has not always been smooth sailing, this section
 
 ## 4.1 Technical Challenges
 
-![image](https://github.com/abisolap123/Entrepreneurship/blob/main/technical.png)
-
 ### **AI Implementation Barriers**
 - **Challenge:** Developing an AI system capable of analyzing communication patterns, providing contextual feedback, and adapting to different professional scenarios requires specialized expertise and substantial training data.
 - **Mitigation Plan:** We're pursuing a hybrid approach that leverages existing AI services (such as Azure Cognitive Services or Google Cloud NLP) for our MVP, while simultaneously developing a roadmap for more specialized models as we gather user data and feedback.
@@ -262,6 +264,8 @@ The development of the business has not always been smooth sailing, this section
 - **Challenge:** Real-time communication analysis requires efficient processing to provide timely feedback without degrading user experience.
 - **Mitigation Plan:** We're exploring edge processing for certain analysis components and investigating optimization techniques to ensure responsive performance even on lower-bandwidth connections.
 
+![image](https://github.com/abisolap123/Entrepreneurship/blob/main/technical.png)
+
 ## 4.2 Market Challenges
 As we've begun introducing PropelAI to the market, several key validation challenges have emerged:
 
@@ -269,6 +273,7 @@ As we've begun introducing PropelAI to the market, several key validation challe
 - **Challenge:** Many potential users struggle to understand how AI-driven feedback differs from traditional communication training or simple recording and playback solutions.
 - **Evidence:** In our initial user interviews, approximately 60% of participants asked for clarification about how the AI would analyze their communication effectively.
 - **Mitigation Strategy:** We've revised our demonstration script to include concrete examples of AI-powered insights. We're also developing simple comparison graphics that illustrate the difference between traditional and AI-enhanced communication coaching.
+
 
 ### **Differentiation in a Competitive Landscape**
 
@@ -291,11 +296,11 @@ As we've begun introducing PropelAI to the market, several key validation challe
 | Brand Identity & Digital Presence | ✅ Completed | April 2025           | - Brand assets and guidelines<br>- LinkedIn presence<br>- Initial content framework |
 
 On our entrepreneurial journey we have succeeded in:
-- Propotype Development
-- Beginning Investor Outreach
-- Company Formation Planning
-- Targeted User Engagement
-- Effective Team Collaboration
+- **Propotype Development**
+- **Beginning Investor Outreach**
+- **Company Formation Planning**
+- **Targeted User Engagement**
+- **Effective Team Collaboration**
 
 
 ### **Prototype Development Success**
@@ -374,5 +379,3 @@ Going forwards we plan to grow our LinkedIn with weekly/biweekly posts. We have 
 | Educational Institution Outreach  | 🔜 Planned    | June 2025            | - University partnership discussions<br>- Career center demonstrations<br>- Potential pilot program scoping |
 | Working MVP Development           | 🔜 Planned    | July 2025            | - Frontend-backend integration<br>- Basic AI functionality implementation<br>- Internal testing protocol |
 
-# 6. Conclusion
-# 7. References
