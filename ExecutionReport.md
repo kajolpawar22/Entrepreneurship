@@ -252,6 +252,8 @@ The development of the business has not always been smooth sailing, this section
 
 ## 4.1 Technical Challenges
 
+![image](https://github.com/abisolap123/Entrepreneurship/blob/main/technical.png)
+
 ### **AI Implementation Barriers**
 - **Challenge:** Developing an AI system capable of analyzing communication patterns, providing contextual feedback, and adapting to different professional scenarios requires specialized expertise and substantial training data.
 - **Mitigation Plan:** We're pursuing a hybrid approach that leverages existing AI services (such as Azure Cognitive Services or Google Cloud NLP) for our MVP, while simultaneously developing a roadmap for more specialized models as we gather user data and feedback.
@@ -340,13 +342,13 @@ While our frontend prototype effectively communicates the concept, several techn
 - Current prototype uses simulated responses rather than actual AI processing
 - Performance optimization needed for eventual real-time feedback capabilities
 
-### **Research Methodology Refinement**
-Our user research approach has opportunities for enhancement:
+### **Project Management Processes**
+As we move toward more complex development phases, we need stronger operational structures:
 
-- Need for more diverse representation in our test user population
-- More structured quantitative data collection to complement qualitative insights
-- Expanded competitive analysis to identify emerging market trends
-- Development of clearer success metrics for evaluating product-market fit
+- More detailed resource allocation planning for technical development
+- Formalized documentation practices for knowledge sharing
+- Clearer milestone definitions with measurable completion criteria
+- Enhanced risk assessment and contingency planning
 
 ## 5.3 Long-Term Outlook
 
