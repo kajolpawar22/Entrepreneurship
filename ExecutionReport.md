@@ -10,12 +10,13 @@
 ## 3. The Product
 - **3.1 What is the Product that Meets Customer Needs? (Value proposition)?**  
   - **3.1.1 Product Overview?**
-  - **3.1.2 Real-life usage and relevance**
+  - **3.1.2 Real-life Usage and Relevance**
   - **3.1.3 How it Fits Into Customers’ Lives?**
   - **3.1.4 Business Model**
   - **3.1.5 Real Value Delivered to Users**
 - **3.2 Product Demonstration**
-- **3.3 Core Feature Summary**  
+- **3.3 Unique Selling Proposition (USP)**
+- **3.4 Core Feature Summary**
 ## 4. Development Challenges
 - **4.1 Technical Challenges**  
 - **4.2 Market Challenges**  
@@ -35,12 +36,12 @@
 
 ## 1.1 Recap of PropelAI's Vision
 ## Personal Motivation
-As a team of students about to venture into the professional world, we recognise that one of the most significant challenges that we, and many others will face, is navigating interviews and public speaking. Mastering these skills can be a daunting task and furthermore, they are crucial for the job application process. Our own struggles and experiences inspired the creation and development of our start-up: PropelAI.
+As a team of students about to venture into the professional world, we recognise that one of the most significant challenges that we, and many others will face, is navigating interviews and public speaking. Mastering these skills can be a daunting task and furthermore, these skills are crucial for the job application process. Our own struggles and experiences inspired the creation and development of our start-up: PropelAI.
 
 We felt passionate about creating an intuitive application that will help working professionals excel at public speaking and ace interviews with confidence. This report documents our initial business execution steps and the beginning of our journey.
 
 ## The Communication Crisis in Professional settings
-In today's knowledge economy, communication effectiveness has become the defining factor in career advancement. Studies show that 74% of employers rank communication skills as the most desirable quality in candidates, yet 77% of professionals report experiencing significant anxiety when speaking publicly. This disconnect costs individuals countless career opportunities and organizations billions in productivity losses annually. Despite communication being more critical than ever in remote and hybrid work environments, traditional training methods have failed to evolve beyond generic advice and outdated practices.
+Communication effectiveness has become the defining factor in career advancement. Studies show that 74% of employers rank communication skills as the most desirable quality in candidates, yet 77% of professionals report experiencing significant anxiety when speaking publicly. This disconnect costs individuals countless career opportunities and organizations billions in productivity losses annually. Despite communication being more critical than ever in remote and hybrid work environments, traditional training methods have failed to evolve beyond generic advice and outdated practices.
 
 ## Our Solution: PropelAI
 ![image](https://github.com/abisolap123/Entrepreneurship/blob/main/propelai%20logo.png)
@@ -60,13 +61,13 @@ These are individuals who are currently in the process of applying for jobs and 
 
 **2.	Professionals seeking career advancement.**
 
-Our application also caters to those currently employed but who are striving to migrate to a different job. Often, time is scarce for individuals in this situation; operating a full-time job alongside the search process is exhaustive. Instead of manual preparation, our application aims to streamline the process of interview preparation for a new role/ new company. 
+Our application also caters to those currently employed but who are striving to migrate to a different job. Often, time is scarce for individuals in this situation; operating a full-time job alongside the search process is exhausting. Instead of manual preparation, our application aims to streamline the process of interview preparation for a new role/ new company. 
 
 **3.	Higher education students.**
 
-These individuals could be soon to be graduates, looking to apply for a graduate scheme or a first-year student searching for an internship. Students at university or enrolled in other academic programs who are preparing to join the workforce often face the struggle of having limited interview and public speaking experience. 
+These individuals could be soon to be graduates, looking to apply for a graduate scheme or a first-year student searching for an internship. Students at university or enrolled in other academic programs who are preparing to join the workforce often face the struggle of having limited interview and public speaking experience. Our tool presents a solution to ensuring students get the confidence and skills needed to navigate professional environments.  
 
-Our tool presents a solution to ensuring students get the confidence and skills needed to navigate professional environments.  *We wanted to create an application that we could benefit from ourselves when breaking into the job market and furthermore in our professional careers.* 
+*We wanted to create an application that we could benefit from ourselves when breaking into the job market and furthermore down the line in our professional careers.* 
 
 
 ## 1.2 Customer Needs
@@ -192,7 +193,28 @@ PropelAI’s value isn’t only in its features, but in how it makes a real diff
 ### 8. This is your detailed report for public speaking. You'll receive a score based on your responses, along with specific tips highlighting what went wrong and how you can improve.
 ![propelAi](https://github.com/kajolpawar22/Entrepreneurship/blob/main/final.png)
 
-# 3.3 Core Feature Summary
+# 3.3 Unique Selling Proposition (USP)
+PropelAI differentiates from competitors through its personalized approach to interview preparation, delivering **more practice opportunities at a much lower cost compared to traditional coaching**:
+
+#### 1. CV/Resume Analysis
+
+- Our advanced AI engine **analyses your resume/CV** extracts your skills, experience, and qualifications to generate questions of higher relevance than generic alternatives.
+- Our AI will generate **tailored experienced-based questions** that specifically address your past roles, projects, and accomplishments. 
+
+#### 2. Company-Specific Preparation 
+
+- By inputting your target company and role, the platform will generate relevant questions specific to the **values and culture** of this company.
+  - PropelAI offers **role-specific scenario simulations** custom to the exact position you're applying for.
+
+#### 3. AI-Powered Personalized Feedback System
+
+- Compared to competitors, PropelAI offers **detailed** and relevant **real-time analysis** of speech clarity, tone, pace, and filler words. 
+- The feedback is not generic; it contains **sentiment analysis** that assesses **confidence and engagement levels**, with **immediately delivered** feedback.
+
+---
+PropelAI adresses a **critical market gap** by combining **personalized AI-driven feedback, resume-based interview simulations, company-specific preparation, and real-time analysis** at an **affordable subscription price**.
+
+# 3.4 Core Feature Summary
 
 ### Interview Preparation Flow
 
